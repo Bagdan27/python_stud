@@ -1,0 +1,9 @@
+Date,Product,Category,Price,Quantity,Total,Region
+2025-01-03,Smartphone,Electronics,699.99,2,1399.98,North
+2025-01-04,Laptop,Electronics,1299.99,1,1299.99,West
+2025-01-05,Desk Chair,Furniture,149.99,4,599.96,East
+2025-01-06,Notebook,Stationery,3.49,10,34.90,South
+2025-01-07,Monitor,Electronics,229.99,3,689.97,North
+2025-01-08,Pencil,Stationery,0.99,25,24.75,East
+2025-01-09,Bookshelf,Furniture,89.99,2,179.98,West
+2025-01-10,Headphones,Electronics,199.99,2,399.98,South
