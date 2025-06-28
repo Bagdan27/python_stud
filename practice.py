@@ -38,7 +38,6 @@ qwerty = [1,2,3,0,9,8,7]
 qwerty.reverse ()
 print(qwerty)
 
-
 qwerty.sort()
 qwerty.reverse()
 print(qwerty)
